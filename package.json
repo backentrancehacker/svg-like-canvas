@@ -1,9 +1,13 @@
 {
   "name": "svg-like-canvas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interact with an svg with canvas-like APIs",
   "main": "index.js",
   "keywords": ["svg", "canvas"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backentrancehacker/svg-like-canvas.git"
+  },
   "author": "AdCharity",
   "license": "ISC"
 }
