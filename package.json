@@ -1,0 +1,9 @@
+{
+  "name": "svg-like-canvas",
+  "version": "1.0.0",
+  "description": "Interact with svg similar to a canvas",
+  "main": "index.js",
+  "keywords": ["svg", "canvas"],
+  "author": "AdCharity",
+  "license": "ISC"
+}
